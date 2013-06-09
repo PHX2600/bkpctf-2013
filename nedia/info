@@ -1,1 +1,1 @@
-site is using getimagesize() method
+site is using getimagesize() method, renames all files to '/upload/nediapicture.gif'
